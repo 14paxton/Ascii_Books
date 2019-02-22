@@ -37,6 +37,9 @@ class User implements Serializable {
 				},
 				minSize: 8
 
+
+
+
 	}
 
 	static mapping = {
